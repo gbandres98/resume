@@ -41,3 +41,7 @@ dd { width: 600px; float: right; }
 dd.clear { float: none; margin: 0; height: 15px; }
 
 .skills ul { margin-bottom: 5px; }
+
+.description {
+    padding-left: 1rem;
+}
